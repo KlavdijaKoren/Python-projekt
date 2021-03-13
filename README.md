@@ -14,7 +14,7 @@ Namen projekta je možnost vpogleda v trenutno ponudbo hrane v Ljubljanii (ali p
 * **Teden 3 (od 29. 3. do 4. 4.):** končna zamisel analize podatkov in primerjava podatkov.
 * **Teden 4 (od 5. 4. do 11. 4.):** grafični prikaz analize ter končni popravki ter oddaja projekta.
 
-### 4. Člani razvojne ekipe (seznam imen in vpisnih številk študentov)
+### 4. Člani razvojne ekipe (imena in vpisne številke študentov)
 * Ana Berdnik, 27160252
 * Klavdija Koren, 27171077
 
