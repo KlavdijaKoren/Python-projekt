@@ -10,7 +10,7 @@ Predstavljeni bodo ponudniki hrane, ocena potrošnikov, ponudba hrane in cenik, 
 Namen projekta je možnost vpogleda v trenutno ponudbo hrane v Ljubljanii (ali po Sloveniji) in primerjava med ponudniki, vrsto hrane in cenami.
 
 ### 3. Terminski plan projekta (predviden azvoj programa po tednih)
-* Teden 1 in 2 (od 15. 3. do 28. 3.): končna zasnova projekta in določitve širine izbranih podatkov (omejitev na Ljubljano ali širitev po celotni Sloveniji in omejitev na študentsko prehrano ali na splošno ponudbo) ter začetna oblika programa, ki bo podatke vzel iz spletne strani ter jih shranil v neki smiselni obliki.
+* _Teden 1 in 2 (od 15. 3. do 28. 3.)_: končna zasnova projekta in določitve širine izbranih podatkov (omejitev na Ljubljano ali širitev po celotni Sloveniji in omejitev na študentsko prehrano ali na splošno ponudbo) ter začetna oblika programa, ki bo podatke vzel iz spletne strani ter jih shranil v neki smiselni obliki.
 * Teden 3 (od 29. 3. do 4. 4.): končna zamisel analize podatkov in primerjava podatkov.
 * Teden 4 (od 5. 4. do 11. 4.): grafični prikaz analize ter končni popravki ter oddaja projekta.
 
