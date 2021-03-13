@@ -2,7 +2,7 @@
 ## Ponudba študentske prehrane
 
 ### 1. Predlog projekta (kratek opis namena programa)
-Projekt bo zasnovan na podatkih iz spletne strani https://www.ehrana.si/, ki omogoča enostavno naročanje in dostavo hrane pri različnih ponudnikih po Sloveniji. Sprva bo tema omejena na ponudbo študentske prehrane oziroma možnost naročanja s študentskimi boni v Ljubljani, kasneje pa se bo morda razširila tudi na ponudbo po celotni Sloveniji ali splošno ponudbo brez študentskih bonov.
+Projekt bo zasnovan na podatkih iz spletne strani https://www.ehrana.si/, ki omogoča enostavno naročanje in dostavo hrane pri različnih ponudnikih po Sloveniji. Sprva bo tema omejena na ponudbo študentske prehrane oz. možnost naročanja s študentskimi boni v Ljubljani, kasneje pa se bo morda razširila tudi na ponudbo po celotni Sloveniji ali splošno ponudbo brez študentskih bonov.
 
 Predstavljeni bodo ponudniki hrane, ocena potrošnikov, ponudba hrane in cenik, kjer bodo parametri med seboj v primerjavi. Ponudba hrane bo razvrščena glede na vrsto hrane npr pizze, vegansko, vegetarjansko, jedi na žlico ipd.
 
